@@ -1,0 +1,6 @@
+scenario_id,capacity_factor,probability
+1,0.2,0.2
+2,0.35,0.2
+3,0.5,0.2
+4,0.15,0.2
+5,0.6,0.2
